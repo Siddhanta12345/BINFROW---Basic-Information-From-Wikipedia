@@ -1,6 +1,3 @@
-# BINFROW---Basic-Information-From-Wikipedia
-Explore the world of knowledge with this interactive Python code, which serves as your personal Wikipedia companion. This code empowers you to effortlessly retrieve Wikipedia summaries for any topic of your choice and even transform them into neatly formatted PDF documents.
-
 # BINFROW - Wikipedia Summary Chatbot with PDF Generation
 
 Explore knowledge effortlessly with BINFROW (Built-INtelligent FROm the Web), an interactive Python chatbot that simplifies Wikipedia information retrieval and PDF generation. BINFROW empowers you to access Wikipedia summaries, save them as PDF documents, and enjoy a smooth user experience.
